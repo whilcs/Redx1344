@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Redx1344
+- 👋 Hi, I’m @whilcs
 - 👀 I’m interested in Computer Networking and IT stuff
 - 🌱 I’m currently learning CCNA materials
 - 💞️ I’m looking to collaborate on ...
